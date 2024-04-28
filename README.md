@@ -56,4 +56,21 @@ The Travel and Tourism Management System has been developed by Om Singh.I would 
 ## Preview of The Site
 ### Home Page :
 ![Screenshot (27)](https://github.com/os0004/Tourism-Planner-Web-Project/assets/104494077/da6b0bd2-0056-487f-8108-3cbd75295abf)
+### Registration Page :
+![Screenshot (17)](https://github.com/os0004/Tourism-Planner-Web-Project/assets/104494077/7b3064ca-cb9f-470a-9e7d-99b21053bfb9)
+### Login Page:
+![Screenshot (16)](https://github.com/os0004/Tourism-Planner-Web-Project/assets/104494077/43974e7b-063f-4be1-95da-9242133b0871)
+### Destination Packages :
+![Screenshot (47)](https://github.com/os0004/Tourism-Planner-Web-Project/assets/104494077/fd85bb0b-2e9a-4a36-b674-aaf36cae3df7)
+### Package Details :
+![Screenshot (51)](https://github.com/os0004/Tourism-Planner-Web-Project/assets/104494077/dd99799c-0497-4589-9106-7acce6559a2b)
+### Booking Page :
+![Screenshot (52)](https://github.com/os0004/Tourism-Planner-Web-Project/assets/104494077/f8c5c7f8-cf1a-4d26-8b93-6ad7bf698b02)
+![Screenshot (53)](https://github.com/os0004/Tourism-Planner-Web-Project/assets/104494077/2f2bf09b-8fca-4d3b-8829-19b364283af1)
+![Screenshot (54)](https://github.com/os0004/Tourism-Planner-Web-Project/assets/104494077/fdfd737a-7465-4fe3-bf91-0eb7df51e098)
+
+### User Profile :
+![Screenshot (49)](https://github.com/os0004/Tourism-Planner-Web-Project/assets/104494077/be86b844-7162-424f-a370-ff769b22d57a)
+### Booking History :
+![Screenshot (50)](https://github.com/os0004/Tourism-Planner-Web-Project/assets/104494077/01893bf1-138e-490f-98af-68d007b78aad)
 
