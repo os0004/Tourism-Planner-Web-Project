@@ -66,7 +66,9 @@ The Travel and Tourism Management System has been developed by Om Singh.I would 
 ![Screenshot (51)](https://github.com/os0004/Tourism-Planner-Web-Project/assets/104494077/dd99799c-0497-4589-9106-7acce6559a2b)
 ### Booking Page :
 ![Screenshot (52)](https://github.com/os0004/Tourism-Planner-Web-Project/assets/104494077/f8c5c7f8-cf1a-4d26-8b93-6ad7bf698b02)
+:
 ![Screenshot (53)](https://github.com/os0004/Tourism-Planner-Web-Project/assets/104494077/2f2bf09b-8fca-4d3b-8829-19b364283af1)
+:
 ![Screenshot (54)](https://github.com/os0004/Tourism-Planner-Web-Project/assets/104494077/fdfd737a-7465-4fe3-bf91-0eb7df51e098)
 
 ### User Profile :
