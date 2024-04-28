@@ -54,5 +54,6 @@ The Travel and Tourism Management System has been developed by Om Singh.I would 
 - [MySQL](https://www.mysql.com)
 
 ## Preview of The Site
-Home Page :
-![Screenshot (27)](https://github.com/os0004/Tourism-Planner-Web-Project/assets/104494077/93284b80-fb4e-44a4-9131-1d2c76f139b2)
+### Home Page :
+![Screenshot (27)](https://github.com/os0004/Tourism-Planner-Web-Project/assets/104494077/da6b0bd2-0056-487f-8108-3cbd75295abf)
+
