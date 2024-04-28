@@ -1,4 +1,4 @@
-Travel and Tourism Management System
+# Travel and Tourism Management System
 
 The Travel and Tourism Management System is a web application designed to facilitate the management of travel and tourism-related activities. It provides a user-friendly interface for travelers to browse and book travel packages, and for administrators to manage the system's content and bookings. This system has been developed using HTML, CSS, and JavaScript for the frontend, and PHP and MySQL for the backend.
 
@@ -53,6 +53,6 @@ The Travel and Tourism Management System has been developed by Om Singh.I would 
 - [XAMPP](https://www.apachefriends.org/)
 - [MySQL](https://www.mysql.com)
 
-# Preview of The Site
+## Preview of The Site
 Home Page :
 ![Screenshot (27)](https://github.com/os0004/Tourism-Planner-Web-Project/assets/104494077/93284b80-fb4e-44a4-9131-1d2c76f139b2)
